@@ -1,3 +1,4 @@
 # HelloWorld
 Just for test
-hahaha
+
+This is the first project management using Github. Have a nice day
